@@ -14,6 +14,16 @@ Schick mir eine Nachricht:
 
 [Mail](mailto:security@hascii.de)
 
+[WhatsApp](https://wa.me/491747582100)
+
+[Telegram](https://telegram.me/ITGerDE)
+
+
+### Obligatorisches:
+
+[Impressum](https://itrk.legal/uAj.8V.pqL.html?imp=1)
+
+
 
 # Welcome to GitHub Pages
 
