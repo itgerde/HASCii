@@ -19,6 +19,18 @@ Schick mir eine Nachricht:
 [Telegram](https://telegram.me/ITGerDE)
 
 
+## Grüße gehen raus an:
+
+```markdown
+
+- [ProtonMail] (https://protonmail.com/de/) 
+- [ProtonVPN] (https://protonvpn.com/de/)
+- [GitHub] (https://github.com/)
+- [Threema] (https://threema.ch/de)
+- [Jakyll] (https://jekyllrb.com)
+
+```
+
 ### Obligatorisches:
 
 [Impressum](https://itrk.legal/uAj.8V.pqL.html?imp=1)
