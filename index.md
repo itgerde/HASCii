@@ -18,18 +18,25 @@ Schick mir eine Nachricht:
 
 [Telegram](https://telegram.me/ITGerDE)
 
+<break>
 
 ## Grüße gehen raus an:
 
-```markdown
+[ProtonMail](https://protonmail.com/de/) 
+Kostenloser und sicherer E-Mail-Dienst, dank Mailverschlüsselung.
 
-- [ProtonMail](https://protonmail.com/de/) 
-- [ProtonVPN](https://protonvpn.com/de/)
-- [GitHub](https://github.com/)
-- [Threema](https://threema.ch/de)
-- [Jakyll](https://jekyllrb.com)
+[ProtonVPN](https://protonvpn.com/de/)
+Kostenloser und sicherer VPN-Dienst.
 
-```
+[GitHub](https://github.com/)
+Diese Webseite wird kostenlos auf GitHub gehostet. Dicken Dank dafür.
+
+[Jakyll](https://jekyllrb.com)
+Diese Webseite wurde mit Jakyll kostenlos erstellt. Auch hier einen dicken Dank dafür.
+
+[Threema](https://threema.ch/de)
+Verschlüsselte Kommunikation für kleines Geld.
+
 
 ### Obligatorisches:
 
