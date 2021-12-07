@@ -18,7 +18,6 @@ Schick mir eine Nachricht:
 
 [Telegram](https://telegram.me/ITGerDE)
 
-<break>
 
 ## Grüße gehen raus an:
 
