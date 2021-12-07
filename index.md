@@ -23,11 +23,11 @@ Schick mir eine Nachricht:
 
 ```markdown
 
-- [ProtonMail] (https://protonmail.com/de/) 
-- [ProtonVPN] (https://protonvpn.com/de/)
-- [GitHub] (https://github.com/)
-- [Threema] (https://threema.ch/de)
-- [Jakyll] (https://jekyllrb.com)
+- [ProtonMail](https://protonmail.com/de/) 
+- [ProtonVPN](https://protonvpn.com/de/)
+- [GitHub](https://github.com/)
+- [Threema](https://threema.ch/de)
+- [Jakyll](https://jekyllrb.com)
 
 ```
 
@@ -35,13 +35,8 @@ Schick mir eine Nachricht:
 
 [Impressum](https://itrk.legal/uAj.8V.pqL.html?imp=1)
 
+__END__
 
-
-# Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/itgerde/hascii/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
