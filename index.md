@@ -1,16 +1,19 @@
-## Willkommen
+# Willkommen
 
 Meine Name ist HASCii, Mitbegründer von [ITGer](https://itger.de/).
 Wenn du deinen Weg hierher gefunden hast, dann ...
 
-hast du mich bereits kennengelernt,
-bist du über eines meiner Projekte auf mich aufmerksam geworden,
-wurde ich dir empfohlen,
-stalkst du mich ^^
+- hast du mich bereits kennengelernt,
+- bist du über eines meiner Projekte auf mich aufmerksam geworden,
+- wurde ich dir empfohlen,
+- stalkst du mich ^^
 
 Du hast einen Auftrag für mich, oder benötigst Unterstützung im Bereich der IT-Sicherheit?
 
-Schreibe mich an
+Schick mir eine Nachricht:
+
+[Mail](mailto:security@hascii.de)
+
 
 # Welcome to GitHub Pages
 
