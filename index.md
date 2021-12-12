@@ -1,3 +1,9 @@
+---
+
+github:
+  is_project_page: false
+
+---
 # Willkommen
 
 Meine Name ist HASCii, Mitbegründer von [ITGer](https://itger.de/).
