@@ -1,8 +1,5 @@
 ---
-
-github:
-  is_project_page: false
-
+title: HASCii - IT-Security
 ---
 # Willkommen
 
