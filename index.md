@@ -39,6 +39,6 @@ Verschlüsselte Kommunikation für kleines Geld.
 
 ### Obligatorisches:
 
-[Impressum](https://itrk.legal/uAj.8V.pqL.html?imp=1)|[Datenschutz](https://itrk.legal/uAj.8V.pqL.html)
+[Impressum](https://itrk.legal/uAj.8V.pqL.html?imp=1) | [Datenschutz](https://itrk.legal/uAj.8V.pqL.html)
 
 _END_
