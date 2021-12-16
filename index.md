@@ -1,6 +1,6 @@
 ---
 title: HASCii
-layout: deault
+layout: page
 published: true
 ---
 
