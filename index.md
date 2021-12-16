@@ -30,7 +30,7 @@ Kostenloser und sicherer VPN-Dienst.
 [GitHub](https://github.com/)
 Diese Webseite wird kostenlos auf GitHub gehostet. Dicken Dank dafür.
 
-[Jakyll](https://jekyllrb.com)
+[Jekyll](https://jekyllrb.com)
 Diese Webseite wurde mit Jakyll kostenlos erstellt. Auch hier einen dicken Dank dafür.
 
 [Threema](https://threema.ch/de)
