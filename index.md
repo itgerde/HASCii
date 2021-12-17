@@ -33,5 +33,8 @@ Diese Webseite wird kostenlos auf GitHub gehostet. Dicken Dank dafür.
 [Jekyll](https://jekyllrb.com)
 Diese Webseite wurde mit Jakyll kostenlos erstellt. Auch hier einen dicken Dank dafür.
 
+[Parrot OS](https://parrotsec.org)
+Lieblings Werkzeugkasten. Kostenlos, Debian basierend und von Parrot Security für Sicherheit und Datenschutz entwickelt.
+
 [Threema](https://threema.ch/de)
 Verschlüsselte Kommunikation für kleines Geld.
