@@ -16,8 +16,8 @@ Wenn du deinen Weg hierher gefunden hast, dann ...
 Du hast einen Auftrag für mich, oder benötigst Unterstützung im Bereich der IT-Sicherheit?
 
 Schick mir eine Nachricht:
-[Mail](mailto:security@hascii.de)
-[WhatsApp](https://wa.me/491747582100)
+[Mail](mailto:security@hascii.de) | 
+[WhatsApp](https://wa.me/491747582100) | 
 [Telegram](https://telegram.me/ITGerDE)
 
 ## Grüße gehen raus an:
@@ -35,8 +35,3 @@ Diese Webseite wurde mit Jakyll kostenlos erstellt. Auch hier einen dicken Dank 
 
 [Threema](https://threema.ch/de)
 Verschlüsselte Kommunikation für kleines Geld.
-
-### Obligatorisches:
-[Impressum](https://itrk.legal/uAj.8V.pqL.html?imp=1) | [Datenschutz](https://itrk.legal/uAj.8V.pqL.html)
-
-_END_
